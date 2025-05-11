@@ -1,4 +1,4 @@
-# 🎓 Khóa luận tốt nghiệp: Ứng dụng các phương pháp học máy trong Lý thuyết hồi đáp câu hỏi (IRT)
+# Các phương pháp học máy trong Lý thuyết hồi đáp câu hỏi (IRT)
 
 ## Giới thiệu
 
